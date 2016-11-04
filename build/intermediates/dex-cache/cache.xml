@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="82db9b0ff8ffef07f83da8a2af71c2f10ffa03f4">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7c0088b026ff1c25e7d8ed283486f6d134b1e35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="c653cbf7e2207973f7211a2a9bb7d5af49599df4">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\instant-run_0fe3b7889c0cbad2da34326d2d84619e813de927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_dd1befeccfd461532b18362f1695426ff63cac80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_e453790af92d534e8d35344ca6330ddd674cb69e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_412ebafb45b22d820f5d5cd048b3d132d775e03d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_fc2996e0f70ca46470559c72e4af7793e0556c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.2.1_f4be2b4837390e3420d52be92d638810ebdeaf5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiktik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\tiktik\Downloads\SmsApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_d4b8160460f522f2135c4ed7fa8e0d1f8f2aedce.jar" />
+    </item>
+
+</items>
